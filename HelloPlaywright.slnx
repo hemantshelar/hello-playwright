@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HelloPlaywright.AuthSetup/HelloPlaywright.AuthSetup.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HelloPlaywright.Tests/HelloPlaywright.Tests.csproj" />
+  </Folder>
+</Solution>
